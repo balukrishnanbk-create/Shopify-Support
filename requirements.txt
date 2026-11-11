@@ -1,0 +1,6 @@
+flask
+pandas
+openpyxl
+requests
+pillow
+python-dotenv
